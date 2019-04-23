@@ -1,0 +1,6 @@
+commit 49992d7fd2fe7760fb3d46ca30c1ad9be3d69200
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Tue Apr 23 17:28:58 2019 +0200
+
+    test candidates for inductions with small terms and normalization
+
